@@ -1,0 +1,208 @@
+#name{
+
+    text-align: center;
+    color: rgb(235, 14, 168);
+    padding-top:1px;
+    margin: 10px;
+}
+
+#job {
+    text-align: center;
+    color: black;
+    padding-bottom:1px;
+    margin: 10px;
+}
+
+#edu{
+    margin-left: 20px;
+    color:  rgb(235, 14, 168);
+    display: inline-block;
+    background-color: #ffd700;
+    height: 20px;
+    width: 150px;
+    border-style: dotted;
+    border-color: black;
+    text-align: center;
+}
+
+#edu:hover{
+    background-color: chartreuse;
+    transition: 1s;
+    color:black;
+    border-radius: 40%;
+    transform: rotate(360deg);
+}
+#list{
+    position: absolute;
+            top: 160px; 
+            
+}
+
+/* #clg:hover{
+    color: rgb(227, 12, 12);
+}
+#list:hover{
+    color:rgb(6, 110, 2)
+} */
+
+#clg{
+    color: rgba(0, 0, 0, 0.993);
+    
+}
+
+#education-block{
+    display: inline-block;
+    height: 250px;
+    width: 500px;
+    border-color: black;
+    border-style: dashed;
+    border-width: 2px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    margin-left: 110px;
+    border-radius: 20px;
+    
+    /* background-color: orange; */
+}
+
+#skill-block{
+    display: inline-block;
+    margin-left: 30px;
+    height: 250px;
+    width: 500px;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: black;
+    padding-bottom: 10px;
+    vertical-align: top;
+    margin-top: 20px;
+    border-radius: 20px;
+    /* background-color: green; */
+}
+
+#skill{
+    margin-left: 20px;
+    color:  rgb(235, 14, 168);
+    display: inline-block;
+    background-color: #ffd700;
+    height: 20px;
+    width: 150px;
+    border-style: dotted;
+    border-color: black;
+    text-align: center;
+}
+
+#skill:hover{
+    background-color: chartreuse;
+    transition: 1s;
+    color:black;
+    border-radius: 40%;
+    transform: rotate(360deg);
+}
+
+#table{
+    margin-left: 6px;
+}
+
+
+#project-block{
+    display: inline-block;
+    margin-left: 110px;
+    height: 250px;
+    width: 500px;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: black;
+    padding-bottom: 10px;
+    vertical-align: top;
+    margin-top: 20px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+  
+    
+    
+}
+
+#project{
+    margin-left: 20px;
+    color:  rgb(235, 14, 168);
+    display: inline-block;
+    background-color: #ffd700;
+    height: 20px;
+    width: 150px;
+    border-style: dotted;
+    border-color: black;
+    text-align: center;
+    
+    
+}
+
+#project:hover{
+    background-color: chartreuse;
+    transition: 1s;
+    color:black;
+    border-radius: 40%;
+    transform: rotate(360deg);
+}
+
+
+#p1{
+    padding-top: 5px;
+    padding-bottom: 5px;
+   
+}
+
+#internship{
+    display: inline-block;
+    margin-left: 30px;
+    height: 250px;
+    width: 500px;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: black;
+    padding-bottom: 10px;
+    vertical-align: top;
+    margin-top: 20px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    top: 1600px;
+    /* background-image: url("1.jpg");
+    background-size: cover; */
+    
+}
+   
+
+#extra{
+    margin-left: 20px;
+    color:  rgb(235, 14, 168);
+    display: inline-block;
+    background-color: #ffd700;
+    height: 20px;
+    width: 150px;
+    border-style: dotted;
+    border-color: black;
+    text-align: center;
+    /* opacity: 0.7; */
+    
+}
+#extra:hover{
+    background-color: chartreuse;
+    transition: 1s;
+    color:black;
+    border-radius: 40%;
+    transform: rotate(360deg) ;
+    /* transform:scale(1,2); */
+    /* transform:translate(20px,30px); */
+    /* transform:skew(90deg); */
+    /* box-shadow: 10px 10px 30px rgb(112, 180, 112); */
+  
+
+}
+#i1{
+    padding-top: 2px;
+    padding-bottom: 5px;
+}
+
+
+
+
